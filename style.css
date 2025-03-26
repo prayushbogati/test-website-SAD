@@ -47,6 +47,15 @@ li a:hover {
     padding: 50px;
     text-align: center;
 }
+footer {
+    background-color: rgb(201, 177, 177);
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
 
 .btns {
     text-align: center;
